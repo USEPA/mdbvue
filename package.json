@@ -19,7 +19,7 @@
     "chart.js": "^2.8.0",
     "core-js": "^3.1.2",
     "moment": "^2.24.0",
-    "popper.js": "^1.16.0",
+    "@popperjs/core": "^2.11.0",
     "vue": "^2.6.11",
     "vue-chartjs": "^3.4.2",
     "vue-clickaway": "^2.2.2",
